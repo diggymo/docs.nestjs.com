@@ -114,7 +114,7 @@ To enable the plugin, open `nest-cli.json` (if you use [Nest CLI](/cli/overview)
   "collection": "@nestjs/schematics",
   "sourceRoot": "src",
   "compilerOptions": {
-    "plugins": ["@nestjs/swagger"]
+    "plugins": ["@nestjs/swagger/plugin"]
   }
 }
 ```
